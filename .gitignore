@@ -11,5 +11,9 @@ venv/
 # Dataset
 dataset/
 
-# Checkpoints
-checkpoints/
+checkpoints/*
+!checkpoints/run_20260618_175319/
+!checkpoints/run_20260618_175319/**
+
+checkpoints/run_20260618_175319/best_model.pth
+checkpoints/run_20260618_175319/last_model.pth
