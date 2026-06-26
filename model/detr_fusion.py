@@ -10,7 +10,8 @@ class DETRVGGFusion(nn.Module):
         self,
         num_classes=2,
         num_queries=25,
-        hidden_dim=256
+        hidden_dim=256,
+        dropout=0.3
     ):
         super().__init__()
 
@@ -22,6 +23,7 @@ class DETRVGGFusion(nn.Module):
             num_encoder_layers=6,
             num_decoder_layers=6,
             dim_feedforward=2048,
+            dropout=dropout,
             batch_first=True
         )
 
@@ -33,6 +35,9 @@ class DETRVGGFusion(nn.Module):
         self.row_embed = nn.Embedding(100, hidden_dim // 2)
         self.col_embed = nn.Embedding(100, hidden_dim // 2)
 
+        # Dropout setelah Transformer
+        self.dropout = nn.Dropout(dropout)
+
         self.class_head = nn.Linear(
             hidden_dim,
             num_classes + 1
@@ -41,8 +46,12 @@ class DETRVGGFusion(nn.Module):
         self.bbox_head = nn.Sequential(
             nn.Linear(hidden_dim, hidden_dim),
             nn.ReLU(),
+            nn.Dropout(dropout),
+
             nn.Linear(hidden_dim, hidden_dim),
             nn.ReLU(),
+            nn.Dropout(dropout),
+
             nn.Linear(hidden_dim, 4),
             nn.Sigmoid()
         )
@@ -87,6 +96,9 @@ class DETRVGGFusion(nn.Module):
             src=src + pos_flat,
             tgt=query_embed
         )
+
+        # Tambahkan Dropout
+        hs = self.dropout(hs)
 
         pred_logits = self.class_head(hs)
 
