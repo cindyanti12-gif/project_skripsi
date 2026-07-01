@@ -1,0 +1,15 @@
+========== TRAINING CONFIG ==========
+
+Date           : 20260627_181010
+Device         : cpu
+Epoch          : 100
+Batch Size     : 2
+Learning Rate  : 0.0001
+Weight Decay   : 0.0001
+
+========== RESULT ==========
+
+Best Validation Loss : 14.0950
+Training Time        : 5418.79 minutes
+Train Dataset        : 692
+Validation Dataset   : 198

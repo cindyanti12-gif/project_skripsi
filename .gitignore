@@ -1,19 +1,38 @@
+# ==========================
 # MacOS
+# ==========================
 .DS_Store
 
+# ==========================
 # Python
+# ==========================
 __pycache__/
 *.pyc
 
+# ==========================
 # Virtual Environment
+# ==========================
 venv/
 
+# ==========================
 # Dataset
+# ==========================
 dataset/
 
+# ==========================
+# Checkpoints
+# ==========================
+
+# Ignore semua folder run
 checkpoints/*
+
+# Izinkan folder yang ingin diupload
 !checkpoints/run_20260618_175319/
 !checkpoints/run_20260618_175319/**
 
-checkpoints/run_20260618_175319/best_model.pth
-checkpoints/run_20260618_175319/last_model.pth
+!checkpoints/run_20260627_181010/
+!checkpoints/run_20260627_181010/**
+
+# Jangan upload model (.pth)
+checkpoints/**/best_model.pth
+checkpoints/**/last_model.pth

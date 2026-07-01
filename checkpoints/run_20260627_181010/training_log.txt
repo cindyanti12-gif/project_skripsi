@@ -1,0 +1,900 @@
+
+Epoch 1/100
+--------------------------------------
+Train Loss : 12.7061
+Val Loss   : 14.7014
+Best Loss  : 14.7014
+Epoch Time : 59.65 min
+Elapsed    : 59.65 min
+ETA        : 98:25:34
+
+Epoch 2/100
+--------------------------------------
+Train Loss : 12.4872
+Val Loss   : 14.5568
+Best Loss  : 14.5568
+Epoch Time : 48.26 min
+Elapsed    : 107.91 min
+ETA        : 78:49:01
+
+Epoch 3/100
+--------------------------------------
+Train Loss : 12.3555
+Val Loss   : 14.3626
+Best Loss  : 14.3626
+Epoch Time : 49.08 min
+Elapsed    : 156.98 min
+ETA        : 79:20:29
+
+Epoch 4/100
+--------------------------------------
+Train Loss : 12.4816
+Val Loss   : 14.3676
+Best Loss  : 14.3626
+Epoch Time : 48.71 min
+Elapsed    : 205.70 min
+ETA        : 77:56:16
+
+Epoch 5/100
+--------------------------------------
+Train Loss : 12.3236
+Val Loss   : 14.2935
+Best Loss  : 14.2935
+Epoch Time : 58.44 min
+Elapsed    : 264.14 min
+ETA        : 92:32:09
+
+Epoch 6/100
+--------------------------------------
+Train Loss : 12.4599
+Val Loss   : 14.8642
+Best Loss  : 14.2935
+Epoch Time : 53.73 min
+Elapsed    : 317.87 min
+ETA        : 84:10:23
+
+Epoch 7/100
+--------------------------------------
+Train Loss : 12.3316
+Val Loss   : 14.8674
+Best Loss  : 14.2935
+Epoch Time : 51.68 min
+Elapsed    : 369.54 min
+ETA        : 80:05:47
+
+Epoch 8/100
+--------------------------------------
+Train Loss : 12.3679
+Val Loss   : 14.0950
+Best Loss  : 14.0950
+Epoch Time : 50.86 min
+Elapsed    : 420.41 min
+ETA        : 77:59:25
+
+Epoch 9/100
+--------------------------------------
+Train Loss : 12.3729
+Val Loss   : 14.3913
+Best Loss  : 14.0950
+Epoch Time : 50.88 min
+Elapsed    : 471.28 min
+ETA        : 77:09:50
+
+Epoch 10/100
+--------------------------------------
+Train Loss : 12.2830
+Val Loss   : 14.5099
+Best Loss  : 14.0950
+Epoch Time : 50.75 min
+Elapsed    : 522.03 min
+ETA        : 76:07:36
+
+Epoch 11/100
+--------------------------------------
+Train Loss : 12.3590
+Val Loss   : 14.2861
+Best Loss  : 14.0950
+Epoch Time : 50.66 min
+Elapsed    : 572.69 min
+ETA        : 75:08:37
+
+Epoch 12/100
+--------------------------------------
+Train Loss : 12.4369
+Val Loss   : 14.3612
+Best Loss  : 14.0950
+Epoch Time : 50.32 min
+Elapsed    : 623.01 min
+ETA        : 73:48:07
+
+Epoch 13/100
+--------------------------------------
+Train Loss : 12.4493
+Val Loss   : 14.5898
+Best Loss  : 14.0950
+Epoch Time : 48.76 min
+Elapsed    : 671.77 min
+ETA        : 70:42:06
+
+Epoch 14/100
+--------------------------------------
+Train Loss : 12.3251
+Val Loss   : 14.2331
+Best Loss  : 14.0950
+Epoch Time : 49.22 min
+Elapsed    : 720.99 min
+ETA        : 70:32:55
+
+Epoch 15/100
+--------------------------------------
+Train Loss : 12.3869
+Val Loss   : 14.5388
+Best Loss  : 14.0950
+Epoch Time : 52.35 min
+Elapsed    : 773.34 min
+ETA        : 74:09:42
+
+Epoch 16/100
+--------------------------------------
+Train Loss : 12.3400
+Val Loss   : 14.4352
+Best Loss  : 14.0950
+Epoch Time : 50.75 min
+Elapsed    : 824.10 min
+ETA        : 71:03:20
+
+Epoch 17/100
+--------------------------------------
+Train Loss : 12.3377
+Val Loss   : 14.6586
+Best Loss  : 14.0950
+Epoch Time : 49.22 min
+Elapsed    : 873.32 min
+ETA        : 68:05:21
+
+Epoch 18/100
+--------------------------------------
+Train Loss : 12.3156
+Val Loss   : 14.7760
+Best Loss  : 14.0950
+Epoch Time : 48.98 min
+Elapsed    : 922.30 min
+ETA        : 66:56:15
+
+Epoch 19/100
+--------------------------------------
+Train Loss : 12.3531
+Val Loss   : 14.7951
+Best Loss  : 14.0950
+Epoch Time : 48.83 min
+Elapsed    : 971.13 min
+ETA        : 65:55:12
+
+Epoch 20/100
+--------------------------------------
+Train Loss : 12.3760
+Val Loss   : 14.4571
+Best Loss  : 14.0950
+Epoch Time : 48.96 min
+Elapsed    : 1020.09 min
+ETA        : 65:16:47
+
+Epoch 21/100
+--------------------------------------
+Train Loss : 12.2782
+Val Loss   : 14.6520
+Best Loss  : 14.0950
+Epoch Time : 49.56 min
+Elapsed    : 1069.65 min
+ETA        : 65:15:31
+
+Epoch 22/100
+--------------------------------------
+Train Loss : 12.4192
+Val Loss   : 14.4062
+Best Loss  : 14.0950
+Epoch Time : 49.58 min
+Elapsed    : 1119.23 min
+ETA        : 64:26:55
+
+Epoch 23/100
+--------------------------------------
+Train Loss : 12.2849
+Val Loss   : 14.6323
+Best Loss  : 14.0950
+Epoch Time : 49.27 min
+Elapsed    : 1168.49 min
+ETA        : 63:13:28
+
+Epoch 24/100
+--------------------------------------
+Train Loss : 12.3180
+Val Loss   : 14.3338
+Best Loss  : 14.0950
+Epoch Time : 48.86 min
+Elapsed    : 1217.35 min
+ETA        : 61:53:28
+
+Epoch 25/100
+--------------------------------------
+Train Loss : 12.2253
+Val Loss   : 14.5934
+Best Loss  : 14.0950
+Epoch Time : 49.59 min
+Elapsed    : 1266.94 min
+ETA        : 61:59:14
+
+Epoch 26/100
+--------------------------------------
+Train Loss : 12.2748
+Val Loss   : 14.8049
+Best Loss  : 14.0950
+Epoch Time : 53.74 min
+Elapsed    : 1320.68 min
+ETA        : 66:16:38
+
+Epoch 27/100
+--------------------------------------
+Train Loss : 12.2543
+Val Loss   : 14.6260
+Best Loss  : 14.0950
+Epoch Time : 51.76 min
+Elapsed    : 1372.44 min
+ETA        : 62:58:13
+
+Epoch 28/100
+--------------------------------------
+Train Loss : 12.2636
+Val Loss   : 14.5990
+Best Loss  : 14.0950
+Epoch Time : 74.84 min
+Elapsed    : 1447.28 min
+ETA        : 89:48:20
+
+Epoch 29/100
+--------------------------------------
+Train Loss : 12.2152
+Val Loss   : 14.6040
+Best Loss  : 14.0950
+Epoch Time : 67.64 min
+Elapsed    : 1514.92 min
+ETA        : 80:02:41
+
+Epoch 30/100
+--------------------------------------
+Train Loss : 12.2501
+Val Loss   : 14.6010
+Best Loss  : 14.0950
+Epoch Time : 68.41 min
+Elapsed    : 1583.33 min
+ETA        : 79:48:58
+
+Epoch 31/100
+--------------------------------------
+Train Loss : 12.1978
+Val Loss   : 14.5304
+Best Loss  : 14.0950
+Epoch Time : 61.32 min
+Elapsed    : 1644.66 min
+ETA        : 70:31:11
+
+Epoch 32/100
+--------------------------------------
+Train Loss : 12.3244
+Val Loss   : 14.5515
+Best Loss  : 14.0950
+Epoch Time : 55.89 min
+Elapsed    : 1700.55 min
+ETA        : 63:20:40
+
+Epoch 33/100
+--------------------------------------
+Train Loss : 12.2335
+Val Loss   : 14.2313
+Best Loss  : 14.0950
+Epoch Time : 57.77 min
+Elapsed    : 1758.32 min
+ETA        : 64:30:28
+
+Epoch 34/100
+--------------------------------------
+Train Loss : 12.2569
+Val Loss   : 14.6195
+Best Loss  : 14.0950
+Epoch Time : 57.85 min
+Elapsed    : 1816.17 min
+ETA        : 63:38:20
+
+Epoch 35/100
+--------------------------------------
+Train Loss : 12.2209
+Val Loss   : 14.6529
+Best Loss  : 14.0950
+Epoch Time : 69.81 min
+Elapsed    : 1885.98 min
+ETA        : 75:37:22
+
+Epoch 36/100
+--------------------------------------
+Train Loss : 12.2459
+Val Loss   : 14.2525
+Best Loss  : 14.0950
+Epoch Time : 68.18 min
+Elapsed    : 1954.16 min
+ETA        : 72:43:37
+
+Epoch 37/100
+--------------------------------------
+Train Loss : 12.1759
+Val Loss   : 14.4028
+Best Loss  : 14.0950
+Epoch Time : 67.76 min
+Elapsed    : 2021.92 min
+ETA        : 71:08:48
+
+Epoch 38/100
+--------------------------------------
+Train Loss : 12.1923
+Val Loss   : 14.8311
+Best Loss  : 14.0950
+Epoch Time : 67.80 min
+Elapsed    : 2089.72 min
+ETA        : 70:03:49
+
+Epoch 39/100
+--------------------------------------
+Train Loss : 12.2632
+Val Loss   : 14.6526
+Best Loss  : 14.0950
+Epoch Time : 68.56 min
+Elapsed    : 2158.28 min
+ETA        : 69:41:58
+
+Epoch 40/100
+--------------------------------------
+Train Loss : 12.1385
+Val Loss   : 14.3166
+Best Loss  : 14.0950
+Epoch Time : 67.02 min
+Elapsed    : 2225.30 min
+ETA        : 67:01:22
+
+Epoch 41/100
+--------------------------------------
+Train Loss : 12.2082
+Val Loss   : 14.4604
+Best Loss  : 14.0950
+Epoch Time : 66.77 min
+Elapsed    : 2292.07 min
+ETA        : 65:39:30
+
+Epoch 42/100
+--------------------------------------
+Train Loss : 12.0230
+Val Loss   : 14.3929
+Best Loss  : 14.0950
+Epoch Time : 64.10 min
+Elapsed    : 2356.18 min
+ETA        : 61:58:00
+
+Epoch 43/100
+--------------------------------------
+Train Loss : 11.9226
+Val Loss   : 14.3356
+Best Loss  : 14.0950
+Epoch Time : 58.09 min
+Elapsed    : 2414.27 min
+ETA        : 55:11:10
+
+Epoch 44/100
+--------------------------------------
+Train Loss : 11.9459
+Val Loss   : 14.4789
+Best Loss  : 14.0950
+Epoch Time : 58.38 min
+Elapsed    : 2472.65 min
+ETA        : 54:29:21
+
+Epoch 45/100
+--------------------------------------
+Train Loss : 11.8976
+Val Loss   : 14.3914
+Best Loss  : 14.0950
+Epoch Time : 62.71 min
+Elapsed    : 2535.36 min
+ETA        : 57:29:17
+
+Epoch 46/100
+--------------------------------------
+Train Loss : 11.8995
+Val Loss   : 14.6393
+Best Loss  : 14.0950
+Epoch Time : 51.27 min
+Elapsed    : 2586.63 min
+ETA        : 46:08:41
+
+Epoch 47/100
+--------------------------------------
+Train Loss : 11.6893
+Val Loss   : 14.1531
+Best Loss  : 14.0950
+Epoch Time : 50.99 min
+Elapsed    : 2637.62 min
+ETA        : 45:02:20
+
+Epoch 48/100
+--------------------------------------
+Train Loss : 11.7291
+Val Loss   : 14.1987
+Best Loss  : 14.0950
+Epoch Time : 53.63 min
+Elapsed    : 2691.25 min
+ETA        : 46:28:43
+
+Epoch 49/100
+--------------------------------------
+Train Loss : 11.6959
+Val Loss   : 14.3636
+Best Loss  : 14.0950
+Epoch Time : 50.67 min
+Elapsed    : 2741.92 min
+ETA        : 43:03:58
+
+Epoch 50/100
+--------------------------------------
+Train Loss : 11.7157
+Val Loss   : 14.3438
+Best Loss  : 14.0950
+Epoch Time : 51.07 min
+Elapsed    : 2792.98 min
+ETA        : 42:33:18
+
+Epoch 51/100
+--------------------------------------
+Train Loss : 11.6506
+Val Loss   : 14.5848
+Best Loss  : 14.0950
+Epoch Time : 50.06 min
+Elapsed    : 2843.05 min
+ETA        : 40:53:02
+
+Epoch 52/100
+--------------------------------------
+Train Loss : 11.6288
+Val Loss   : 14.4884
+Best Loss  : 14.0950
+Epoch Time : 50.36 min
+Elapsed    : 2893.40 min
+ETA        : 40:17:09
+
+Epoch 53/100
+--------------------------------------
+Train Loss : 11.4797
+Val Loss   : 14.3429
+Best Loss  : 14.0950
+Epoch Time : 49.22 min
+Elapsed    : 2942.62 min
+ETA        : 38:33:22
+
+Epoch 54/100
+--------------------------------------
+Train Loss : 11.6351
+Val Loss   : 14.4070
+Best Loss  : 14.0950
+Epoch Time : 48.33 min
+Elapsed    : 2990.95 min
+ETA        : 37:03:04
+
+Epoch 55/100
+--------------------------------------
+Train Loss : 11.6970
+Val Loss   : 14.6844
+Best Loss  : 14.0950
+Epoch Time : 46.09 min
+Elapsed    : 3037.04 min
+ETA        : 34:34:02
+
+Epoch 56/100
+--------------------------------------
+Train Loss : 11.5649
+Val Loss   : 14.7437
+Best Loss  : 14.0950
+Epoch Time : 48.12 min
+Elapsed    : 3085.16 min
+ETA        : 35:17:07
+
+Epoch 57/100
+--------------------------------------
+Train Loss : 11.6521
+Val Loss   : 14.2364
+Best Loss  : 14.0950
+Epoch Time : 51.23 min
+Elapsed    : 3136.39 min
+ETA        : 36:43:00
+
+Epoch 58/100
+--------------------------------------
+Train Loss : 11.6206
+Val Loss   : 14.4343
+Best Loss  : 14.0950
+Epoch Time : 54.28 min
+Elapsed    : 3190.67 min
+ETA        : 37:59:53
+
+Epoch 59/100
+--------------------------------------
+Train Loss : 11.5921
+Val Loss   : 14.3920
+Best Loss  : 14.0950
+Epoch Time : 55.52 min
+Elapsed    : 3246.19 min
+ETA        : 37:56:08
+
+Epoch 60/100
+--------------------------------------
+Train Loss : 11.5839
+Val Loss   : 14.7129
+Best Loss  : 14.0950
+Epoch Time : 50.65 min
+Elapsed    : 3296.84 min
+ETA        : 33:46:07
+
+Epoch 61/100
+--------------------------------------
+Train Loss : 11.5632
+Val Loss   : 14.3883
+Best Loss  : 14.0950
+Epoch Time : 49.81 min
+Elapsed    : 3346.66 min
+ETA        : 32:22:46
+
+Epoch 62/100
+--------------------------------------
+Train Loss : 11.5711
+Val Loss   : 14.4647
+Best Loss  : 14.0950
+Epoch Time : 49.48 min
+Elapsed    : 3396.13 min
+ETA        : 31:20:09
+
+Epoch 63/100
+--------------------------------------
+Train Loss : 11.5951
+Val Loss   : 14.4186
+Best Loss  : 14.0950
+Epoch Time : 49.35 min
+Elapsed    : 3445.49 min
+ETA        : 30:26:04
+
+Epoch 64/100
+--------------------------------------
+Train Loss : 11.6948
+Val Loss   : 14.4209
+Best Loss  : 14.0950
+Epoch Time : 49.22 min
+Elapsed    : 3494.71 min
+ETA        : 29:31:50
+
+Epoch 65/100
+--------------------------------------
+Train Loss : 11.6581
+Val Loss   : 14.3623
+Best Loss  : 14.0950
+Epoch Time : 49.07 min
+Elapsed    : 3543.77 min
+ETA        : 28:37:21
+
+Epoch 66/100
+--------------------------------------
+Train Loss : 11.6139
+Val Loss   : 14.3514
+Best Loss  : 14.0950
+Epoch Time : 49.03 min
+Elapsed    : 3592.81 min
+ETA        : 27:47:08
+
+Epoch 67/100
+--------------------------------------
+Train Loss : 11.5670
+Val Loss   : 14.5971
+Best Loss  : 14.0950
+Epoch Time : 47.95 min
+Elapsed    : 3640.76 min
+ETA        : 26:22:18
+
+Epoch 68/100
+--------------------------------------
+Train Loss : 11.5142
+Val Loss   : 14.4108
+Best Loss  : 14.0950
+Epoch Time : 46.43 min
+Elapsed    : 3687.19 min
+ETA        : 24:45:47
+
+Epoch 69/100
+--------------------------------------
+Train Loss : 11.4219
+Val Loss   : 14.4108
+Best Loss  : 14.0950
+Epoch Time : 47.40 min
+Elapsed    : 3734.59 min
+ETA        : 24:29:29
+
+Epoch 70/100
+--------------------------------------
+Train Loss : 11.4393
+Val Loss   : 14.4737
+Best Loss  : 14.0950
+Epoch Time : 48.40 min
+Elapsed    : 3782.99 min
+ETA        : 24:11:58
+
+Epoch 71/100
+--------------------------------------
+Train Loss : 11.4285
+Val Loss   : 14.3762
+Best Loss  : 14.0950
+Epoch Time : 47.04 min
+Elapsed    : 3830.03 min
+ETA        : 22:44:11
+
+Epoch 72/100
+--------------------------------------
+Train Loss : 11.5150
+Val Loss   : 14.3584
+Best Loss  : 14.0950
+Epoch Time : 51.78 min
+Elapsed    : 3881.81 min
+ETA        : 24:09:53
+
+Epoch 73/100
+--------------------------------------
+Train Loss : 11.4322
+Val Loss   : 14.5297
+Best Loss  : 14.0950
+Epoch Time : 53.33 min
+Elapsed    : 3935.15 min
+ETA        : 23:59:59
+
+Epoch 74/100
+--------------------------------------
+Train Loss : 11.5605
+Val Loss   : 14.6610
+Best Loss  : 14.0950
+Epoch Time : 54.08 min
+Elapsed    : 3989.22 min
+ETA        : 23:26:00
+
+Epoch 75/100
+--------------------------------------
+Train Loss : 11.4240
+Val Loss   : 14.3673
+Best Loss  : 14.0950
+Epoch Time : 55.68 min
+Elapsed    : 4044.91 min
+ETA        : 23:12:03
+
+Epoch 76/100
+--------------------------------------
+Train Loss : 11.4255
+Val Loss   : 14.2607
+Best Loss  : 14.0950
+Epoch Time : 53.88 min
+Elapsed    : 4098.78 min
+ETA        : 21:33:05
+
+Epoch 77/100
+--------------------------------------
+Train Loss : 11.3728
+Val Loss   : 14.6192
+Best Loss  : 14.0950
+Epoch Time : 52.82 min
+Elapsed    : 4151.60 min
+ETA        : 20:14:48
+
+Epoch 78/100
+--------------------------------------
+Train Loss : 11.4525
+Val Loss   : 14.4138
+Best Loss  : 14.0950
+Epoch Time : 52.49 min
+Elapsed    : 4204.09 min
+ETA        : 19:14:44
+
+Epoch 79/100
+--------------------------------------
+Train Loss : 11.4973
+Val Loss   : 14.4880
+Best Loss  : 14.0950
+Epoch Time : 46.23 min
+Elapsed    : 4250.32 min
+ETA        : 16:10:49
+
+Epoch 80/100
+--------------------------------------
+Train Loss : 11.3970
+Val Loss   : 14.3080
+Best Loss  : 14.0950
+Epoch Time : 44.93 min
+Elapsed    : 4295.25 min
+ETA        : 14:58:32
+
+Epoch 81/100
+--------------------------------------
+Train Loss : 11.4189
+Val Loss   : 14.5924
+Best Loss  : 14.0950
+Epoch Time : 171.15 min
+Elapsed    : 4466.40 min
+ETA        : 54:11:51
+
+Epoch 82/100
+--------------------------------------
+Train Loss : 11.4260
+Val Loss   : 14.5670
+Best Loss  : 14.0950
+Epoch Time : 50.42 min
+Elapsed    : 4516.82 min
+ETA        : 15:07:36
+
+Epoch 83/100
+--------------------------------------
+Train Loss : 11.4591
+Val Loss   : 14.4378
+Best Loss  : 14.0950
+Epoch Time : 51.67 min
+Elapsed    : 4568.49 min
+ETA        : 14:38:27
+
+Epoch 84/100
+--------------------------------------
+Train Loss : 11.4453
+Val Loss   : 14.5322
+Best Loss  : 14.0950
+Epoch Time : 51.13 min
+Elapsed    : 4619.62 min
+ETA        : 13:38:04
+
+Epoch 85/100
+--------------------------------------
+Train Loss : 11.5429
+Val Loss   : 14.6639
+Best Loss  : 14.0950
+Epoch Time : 53.22 min
+Elapsed    : 4672.84 min
+ETA        : 13:18:14
+
+Epoch 86/100
+--------------------------------------
+Train Loss : 11.4616
+Val Loss   : 14.3772
+Best Loss  : 14.0950
+Epoch Time : 52.89 min
+Elapsed    : 4725.73 min
+ETA        : 12:20:28
+
+Epoch 87/100
+--------------------------------------
+Train Loss : 11.6358
+Val Loss   : 14.7588
+Best Loss  : 14.0950
+Epoch Time : 49.58 min
+Elapsed    : 4775.31 min
+ETA        : 10:44:34
+
+Epoch 88/100
+--------------------------------------
+Train Loss : 11.5169
+Val Loss   : 14.4201
+Best Loss  : 14.0950
+Epoch Time : 49.55 min
+Elapsed    : 4824.87 min
+ETA        : 09:54:38
+
+Epoch 89/100
+--------------------------------------
+Train Loss : 11.4918
+Val Loss   : 14.2578
+Best Loss  : 14.0950
+Epoch Time : 48.94 min
+Elapsed    : 4873.81 min
+ETA        : 08:58:21
+
+Epoch 90/100
+--------------------------------------
+Train Loss : 11.5692
+Val Loss   : 14.6204
+Best Loss  : 14.0950
+Epoch Time : 48.83 min
+Elapsed    : 4922.64 min
+ETA        : 08:08:19
+
+Epoch 91/100
+--------------------------------------
+Train Loss : 11.5325
+Val Loss   : 14.2824
+Best Loss  : 14.0950
+Epoch Time : 48.77 min
+Elapsed    : 4971.41 min
+ETA        : 07:18:54
+
+Epoch 92/100
+--------------------------------------
+Train Loss : 11.4485
+Val Loss   : 14.5097
+Best Loss  : 14.0950
+Epoch Time : 48.71 min
+Elapsed    : 5020.12 min
+ETA        : 06:29:40
+
+Epoch 93/100
+--------------------------------------
+Train Loss : 11.3926
+Val Loss   : 14.5589
+Best Loss  : 14.0950
+Epoch Time : 48.63 min
+Elapsed    : 5068.75 min
+ETA        : 05:40:26
+
+Epoch 94/100
+--------------------------------------
+Train Loss : 11.5027
+Val Loss   : 14.4922
+Best Loss  : 14.0950
+Epoch Time : 48.80 min
+Elapsed    : 5117.55 min
+ETA        : 04:52:48
+
+Epoch 95/100
+--------------------------------------
+Train Loss : 11.5001
+Val Loss   : 14.6081
+Best Loss  : 14.0950
+Epoch Time : 48.64 min
+Elapsed    : 5166.20 min
+ETA        : 04:03:12
+
+Epoch 96/100
+--------------------------------------
+Train Loss : 11.4965
+Val Loss   : 14.4469
+Best Loss  : 14.0950
+Epoch Time : 48.62 min
+Elapsed    : 5214.82 min
+ETA        : 03:14:29
+
+Epoch 97/100
+--------------------------------------
+Train Loss : 11.4609
+Val Loss   : 14.1596
+Best Loss  : 14.0950
+Epoch Time : 50.74 min
+Elapsed    : 5265.56 min
+ETA        : 02:32:12
+
+Epoch 98/100
+--------------------------------------
+Train Loss : 11.4821
+Val Loss   : 14.6705
+Best Loss  : 14.0950
+Epoch Time : 50.13 min
+Elapsed    : 5315.69 min
+ETA        : 01:40:16
+
+Epoch 99/100
+--------------------------------------
+Train Loss : 11.3892
+Val Loss   : 14.3968
+Best Loss  : 14.0950
+Epoch Time : 48.93 min
+Elapsed    : 5364.62 min
+ETA        : 00:48:55
+
+Epoch 100/100
+--------------------------------------
+Train Loss : 11.4288
+Val Loss   : 14.5208
+Best Loss  : 14.0950
+Epoch Time : 54.17 min
+Elapsed    : 5418.79 min
+ETA        : 00:00:00
