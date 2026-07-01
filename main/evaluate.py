@@ -38,7 +38,7 @@ from matcher import HungarianMatcher
 
 device = torch.device("cpu")
 
-CHECKPOINT_DIR = "checkpoints/run_20260618_175319"
+CHECKPOINT_DIR = "checkpoints/run_20260627_181010"
 
 MODEL_PATH = os.path.join(
     CHECKPOINT_DIR,
@@ -47,13 +47,17 @@ MODEL_PATH = os.path.join(
 
 CONF_THRESHOLD = 0.5
 
-SAVE_DIR = "evaluation"
+RUN_NAME = os.path.basename(CHECKPOINT_DIR)
+
+SAVE_DIR = os.path.join(
+    "evaluation",
+    RUN_NAME
+)
 
 os.makedirs(
     SAVE_DIR,
     exist_ok=True
 )
-
 
 # =====================================
 # DATASET
@@ -273,41 +277,42 @@ fig, ax = plt.subplots(
 )
 
 disp.plot(
-    ax=ax
+    ax=ax,
+    cmap="Blues",
+    colorbar=False
 )
 
 plt.title(
-    "Confusion Matrix"
+    f"Confusion Matrix ({RUN_NAME})"
 )
+
+plt.tight_layout()
 
 plt.savefig(
     os.path.join(
         SAVE_DIR,
         "confusion_matrix.png"
-    )
+    ),
+    dpi=300,
+    bbox_inches="tight"
 )
 
 plt.close()
-
 
 # =====================================
 # DONE
 # =====================================
 
-print("\nSaved:")
-
-print(
-    os.path.join(
-        SAVE_DIR,
-        "metrics.txt"
-    )
-)
-
-print(
-    os.path.join(
-        SAVE_DIR,
-        "confusion_matrix.png"
-    )
-)
-
 print("\nEvaluation Finished")
+
+print("=" * 50)
+
+print(f"Checkpoint : {RUN_NAME}")
+
+print(f"Metrics    : {metrics_file}")
+
+print(
+    f"Matrix     : {os.path.join(SAVE_DIR,'confusion_matrix.png')}"
+)
+
+print("=" * 50)
