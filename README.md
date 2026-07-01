@@ -1,38 +1,33 @@
 # DETR-VGG Fusion for Bivalvia Parasite Detection
 
-Penelitian deteksi penyakit parasit pada cangkang kerang Bivalvia menggunakan kombinasi DETR (Detection Transformer) dan VGG19.
+Penelitian deteksi penyakit parasit pada cangkang kerang Bivalvia menggunakan kombinasi DETR dan VGG19.
 
 ## Dataset
-Dataset menggunakan format COCO.
+- Format COCO
+- 2 kelas:
+  - parasite
+  - non_parasite
 
-## Model Architecture
+## Model
 - DETR
-- VGG19 Backbone Fusion
+- VGG19 Feature Extractor
 - Hungarian Matching
-- GIoU + L1 Loss
-
-## Project Structure
-
-main/
-- train.py
-- evaluate.py
-- inference.py
-
-model/
-- detr_fusion.py
-- vgg_feature.py
-
-loss/
-- detr_loss.py
-
-tests/
-- unit testing files
-
-evaluation/
-- confusion matrix
-- evaluation metrics
+- GIoU Loss + L1 Loss
 
 ## Training
 
 ```bash
 python main/train.py
+```
+
+## Evaluation
+
+```bash
+python main/evaluate.py
+```
+
+## Inference
+
+```bash
+python main/inference.py
+```
